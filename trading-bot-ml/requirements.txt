@@ -1,9 +1,0 @@
-pandas
-yfinance
-openai
-schedule
-requests
-beautifulsoup4
-scikit-learn
-xgboost
-joblib
